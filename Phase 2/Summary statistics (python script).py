@@ -1,17 +1,3 @@
-# ## Get the necessary
-
-#python -m pip install -U pip
-#python -m pip install -U matplotlib
-#pip install pandas
-#pip install seaborn
-
-#or
-
-#conda install pandas
-#conda install seaborn
-#conda install matplotlib
-
-
 import pandas as pd
 import seaborn as sn
 import matplotlib.pyplot as plt
